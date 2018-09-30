@@ -7,9 +7,9 @@
   <string name="text_vdc_title">บริการ VDC</string>
   <string name="text_vdc_link">http://t.me/vdcservice</string>
   <string name="text_version">เวอร์ชัน</string>
-  <string name="text_vdc_designer">นักออกแบบ VDC</string>
+  <string name="text_vdc_designer">ผู้ออกแบบ VDC</string>
   <string name="text_view_forum">ฟอรั่ม</string>
-  <string name="text_changelog">ล็อกการเปลี่ยนแปลง</string>
+  <string name="text_changelog">บันทึกการเปลี่ยนแปลง</string>
   <string name="text_donate">สนับสนุน</string>
   <string name="text_checkupdate">ตรวจสอบปรับปรุง</string>
   <string name="channel_name">@string/app_name</string>
@@ -76,7 +76,7 @@
   <string name="pref_spkfx_limiter_title">ประตูหลัก (จำกัด)</string>
   <string name="pref_spkfx_limiter_threshold">ค่าจำกัดความทนทาน</string>
   <string name="pref_output_gain">อัตราขยายขาออก</string>
-  <string name="pref_output_pan">ช่องแพน</string>
+  <string name="pref_output_pan">เสียงออกซ้ายขวา</string>
   <string name="pref_playback_title">ควบคุมอัตราขยายการเล่น</string>
   <string name="pref_playback_summary_on">อัตราขยายการเล่นAGC ถูกเปิด</string>
   <string name="pref_playback_summary_off">อัตราขยายการเล่นAGC ถูกปิด</string>
@@ -294,7 +294,7 @@
   <string name="text_powerful">ประสิทธิภาพสูง</string>
   <string name="text_easy">ง่าย</string>
   <string name="text_finishing">เกี่ยวกับมัน!</string>
-  <string name="text_description_1">ViPER4Android เป็นซอฟต์แวร์ควอไลเซอร์ที่เป็นที่นิยมมากที่สุดสำหรับ Android ที่ออกมาเป็นเวลาหลายปี, ตอนนี้กลับแจ่มแมวเฟี้ยวเงาะ!</string>
+  <string name="text_description_1">ViPER4Android เป็นซอฟต์แวร์ควอไลเซอร์ที่เป็นที่นิยมมากที่สุดสำหรับ Androidที่ออกมาเป็นเวลาหลายปี, ตอนนี้กลับโดดเด่นอีกครั้ง!</string>
   <string name="text_description_2">มีตัวเลือกมากมายในการทำให้ลายเซ็นเสียงของคุณสมบูรณ์แบบ, ViPER4Android เป็นตัวควอไลเซอร์อเนกประสงค์และทรงพลังที่สุดที่มีอยู่. การเพิ่มไฟล์การตอบสนองต่ออิมพัลส์จะช่วยเพิ่มความเป็นไปได้มากขึ้น</string>
   <string name="text_description_3">ต้องใช้เพียงไม่กี่คลิก, การติดตั้งไดรเวอร์ได้ง่ายกว่าที่เคย. การสลับระหว่างการตั้งค่าทำได้ง่ายมากด้วยการบันทึกและโหลดไฟล์ด้วยการคลิกเพียงไม่กี่ครั้ง</string>
   <string name="text_description_4">ตรวจสอบให้แน่ใจว่าได้เล่นไปสักเล็กน้อยเพื่อสำรวจการตั้งค่าที่คุณชื่นชอบ. คุณพร้อมที่จะเพิ่มประสบการณ์การฟังของคุณหรือไม่?</string>

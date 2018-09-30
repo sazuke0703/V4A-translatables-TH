@@ -21,26 +21,26 @@
         <item>∞</item>
     </string-array>
     <string-array name="output_db">
-        <item>0 dB</item>
-        <item>-1.0 dB</item>
-        <item>-1.9 dB</item>
-        <item>-3.0 dB</item>
-        <item>-6.0 dB</item>
-        <item>-10.5 dB</item>
+        <item>0 เดซิเบล</item>
+        <item>-1.0 เดซิเบล</item>
+        <item>-1.9 เดซิเบล</item>
+        <item>-3.0 เดซิเบล</item>
+        <item>-6.0 เดซิเบล</item>
+        <item>-10.5 เดซิเบล</item>
     </string-array>
 
     <string-array name="fet_threshold">
-        <item>0.0 dB</item>
-        <item>-6.0 dB</item>
-        <item>-12.0 dB</item>
-        <item>-18.0 dB</item>
-        <item>-24.0 dB</item>
-        <item>-30.0 dB</item>
-        <item>-36.0 dB</item>
-        <item>-42.0 dB</item>
-        <item>-48.0 dB</item>
-        <item>-54.0 dB</item>
-        <item>-60.0 dB</item>
+        <item>0.0 เดซิเบล</item>
+        <item>-6.0 เดซิเบล</item>
+        <item>-12.0 เดซิเบล</item>
+        <item>-18.0 เดซิเบล</item>
+        <item>-24.0 เดซิเบล</item>
+        <item>-30.0 เดซิเบล</item>
+        <item>-36.0 เดซิเบล</item>
+        <item>-42.0 เดซิเบล</item>
+        <item>-48.0 เดซิเบล</item>
+        <item>-54.0 เดซิเบล</item>
+        <item>-60.0 เดซิเบล</item>
     </string-array>
     <string-array name="fet_ratio">
         <item>1:1</item>
@@ -56,17 +56,17 @@
         <item>∞:1</item>
     </string-array>
     <string-array name="fet_knee">
-        <item>0.0 dB</item>
-        <item>6.0 dB</item>
-        <item>12.0 dB</item>
-        <item>18.0 dB</item>
-        <item>24.0 dB</item>
-        <item>30.0 dB</item>
-        <item>36.0 dB</item>
-        <item>42.0 dB</item>
-        <item>48.0 dB</item>
-        <item>54.0 dB</item>
-        <item>60.0 dB</item>
+        <item>0.0 เดซิเบล</item>
+        <item>6.0 เดซิเบล</item>
+        <item>12.0 เดซิเบล</item>
+        <item>18.0 เดซิเบล</item>
+        <item>24.0 เดซิเบล</item>
+        <item>30.0 เดซิเบล</item>
+        <item>36.0 เดซิเบล</item>
+        <item>42.0 เดซิเบล</item>
+        <item>48.0 เดซิเบล</item>
+        <item>54.0 เดซิเบล</item>
+        <item>60.0 เดซิเบล</item>
     </string-array>
     <string-array name="fet_knee_multi">
         <item>0.0x</item>
@@ -82,17 +82,17 @@
         <item>4.0x</item>
     </string-array>
     <string-array name="fet_gain">
-        <item>0 dB</item>
-        <item>6 dB</item>
-        <item>12 dB</item>
-        <item>18 dB</item>
-        <item>24 dB</item>
-        <item>30 dB</item>
-        <item>36 dB</item>
-        <item>42 dB</item>
-        <item>48 dB</item>
-        <item>54 dB</item>
-        <item>60 dB</item>
+        <item>0 เดซิเบล</item>
+        <item>6 เดซิเบล</item>
+        <item>12 เดซิเบล</item>
+        <item>18 เดซิเบล</item>
+        <item>24 เดซิเบล</item>
+        <item>30 เดซิเบล</item>
+        <item>36 เดซิเบล</item>
+        <item>42 เดซิเบล</item>
+        <item>48 เดซิเบล</item>
+        <item>54 เดซิเบล</item>
+        <item>60 เดซิเบล</item>
     </string-array>
     <string-array name="fet_attack">
         <item>0.10 ms</item>
@@ -149,17 +149,17 @@
         <item>2000 ms</item>
     </string-array>
     <string-array name="fet_crest">
-        <item>0.0 dB</item>
-        <item>6.0 dB</item>
-        <item>12.0 dB</item>
-        <item>18.0 dB</item>
-        <item>24.0 dB</item>
-        <item>30.0 dB</item>
-        <item>36.0 dB</item>
-        <item>42.0 dB</item>
-        <item>48.0 dB</item>
-        <item>54.0 dB</item>
-        <item>60.0 dB</item>
+        <item>0.0 เดซิเบล</item>
+        <item>6.0 เดซิเบล</item>
+        <item>12.0 เดซิเบล</item>
+        <item>18.0 เดซิเบล</item>
+        <item>24.0 เดซิเบล</item>
+        <item>30.0 เดซิเบล</item>
+        <item>36.0 เดซิเบล</item>
+        <item>42.0 เดซิเบล</item>
+        <item>48.0 เดซิเบล</item>
+        <item>54.0 เดซิเบล</item>
+        <item>60.0 เดซิเบล</item>
     </string-array>
     <string-array name="fet_adapt">
         <item>1000 ms</item>
@@ -205,21 +205,21 @@
     </string-array>
 
     <string-array name="conv_cross_channel">
-        <item>0 %</item>
-        <item>5 %</item>
-        <item>10 %</item>
-        <item>15 %</item>
-        <item>20 %</item>
-        <item>25 %</item>
-        <item>30 %</item>
-        <item>35 %</item>
-        <item>40 %</item>
-        <item>45 %</item>
-        <item>50 %</item>
-        <item>55 %</item>
-        <item>60 %</item>
-        <item>70 %</item>
-        <item>80 %</item>
+        <item>0 เปอร์เซ็นต์</item>
+        <item>5 เปอร์เซ็นต์</item>
+        <item>10 เปอร์เซ็นต์</item>
+        <item>15 เปอร์เซ็นต์</item>
+        <item>20 เปอร์เซ็นต์</item>
+        <item>25 เปอร์เซ็นต์</item>
+        <item>30 เปอร์เซ็นต์</item>
+        <item>35 เปอร์เซ็นต์</item>
+        <item>40 เปอร์เซ็นต์</item>
+        <item>45 เปอร์เซ็นต์</item>
+        <item>50 เปอร์เซ็นต์</item>
+        <item>55 เปอร์เซ็นต์</item>
+        <item>60 เปอร์เซ็นต์</item>
+        <item>70 เปอร์เซ็นต์</item>
+        <item>80 เปอร์เซ็นต์</item>
     </string-array>
 
     <string-array name="colorfulmusic_coeffs">
@@ -294,52 +294,52 @@
         <item>36 m</item>
     </string-array>
     <string-array name="reverb_percent">
-        <item>0 %</item>
-        <item>10 %</item>
-        <item>20 %</item>
-        <item>30 %</item>
-        <item>40 %</item>
-        <item>50 %</item>
-        <item>60 %</item>
-        <item>70 %</item>
-        <item>80 %</item>
-        <item>90 %</item>
-        <item>100 %</item>
+        <item>0 เปอร์เซ็นต์</item>
+        <item>10 เปอร์เซ็นต์</item>
+        <item>20 เปอร์เซ็นต์</item>
+        <item>30 เปอร์เซ็นต์</item>
+        <item>40 เปอร์เซ็นต์</item>
+        <item>50 เปอร์เซ็นต์</item>
+        <item>60 เปอร์เซ็นต์</item>
+        <item>70 เปอร์เซ็นต์</item>
+        <item>80 เปอร์เซ็นต์</item>
+        <item>90 เปอร์เซ็นต์</item>
+        <item>100 เปอร์เซ็นต์</item>
     </string-array>
 
     <string-array name="dynamicsystem_bass">
-        <item>0 %</item>
-        <item>1 %</item>
-        <item>2 %</item>
-        <item>3 %</item>
-        <item>4 %</item>
-        <item>5 %</item>
-        <item>6 %</item>
-        <item>7 %</item>
-        <item>8 %</item>
-        <item>9 %</item>
-        <item>10 %</item>
-        <item>12 %</item>
-        <item>14 %</item>
-        <item>16 %</item>
-        <item>18 %</item>
-        <item>20 %</item>
-        <item>22 %</item>
-        <item>24 %</item>
-        <item>26 %</item>
-        <item>28 %</item>
-        <item>30 %</item>
-        <item>33 %</item>
-        <item>36 %</item>
-        <item>40 %</item>
-        <item>45 %</item>
-        <item>50 %</item>
-        <item>55 %</item>
-        <item>60 %</item>
-        <item>70 %</item>
-        <item>80 %</item>
-        <item>90 %</item>
-        <item>100 %</item>
+        <item>0 เปอร์เซ็นต์</item>
+        <item>1 เปอร์เซ็นต์</item>
+        <item>2 เปอร์เซ็นต์</item>
+        <item>3 เปอร์เซ็นต์</item>
+        <item>4 เปอร์เซ็นต์</item>
+        <item>5 เปอร์เซ็นต์</item>
+        <item>6 เปอร์เซ็นต์</item>
+        <item>7 เปอร์เซ็นต์</item>
+        <item>8 เปอร์เซ็นต์</item>
+        <item>9 เปอร์เซ็นต์</item>
+        <item>10 เปอร์เซ็นต์</item>
+        <item>12 เปอร์เซ็นต์</item>
+        <item>14 เปอร์เซ็นต์</item>
+        <item>16 เปอร์เซ็นต์</item>
+        <item>18 เปอร์เซ็นต์</item>
+        <item>20 เปอร์เซ็นต์</item>
+        <item>22 เปอร์เซ็นต์</item>
+        <item>24 เปอร์เซ็นต์</item>
+        <item>26 เปอร์เซ็นต์</item>
+        <item>28 เปอร์เซ็นต์</item>
+        <item>30 เปอร์เซ็นต์</item>
+        <item>33 เปอร์เซ็นต์</item>
+        <item>36 เปอร์เซ็นต์</item>
+        <item>40 เปอร์เซ็นต์</item>
+        <item>45 เปอร์เซ็นต์</item>
+        <item>50 เปอร์เซ็นต์</item>
+        <item>55 เปอร์เซ็นต์</item>
+        <item>60 เปอร์เซ็นต์</item>
+        <item>70 เปอร์เซ็นต์</item>
+        <item>80 เปอร์เซ็นต์</item>
+        <item>90 เปอร์เซ็นต์</item>
+        <item>100 เปอร์เซ็นต์</item>
     </string-array>
     <string-array name="dynamicsystem_outputs">
         <item>เฮดโฟน สูงสุด(v2)</item>
@@ -379,18 +379,18 @@
         <item>100 Hz</item>
     </string-array>
     <string-array name="vbass_boost">
-        <item>3.5 dB</item>
-        <item>6.0 dB</item>
-        <item>8.0 dB</item>
-        <item>10.0 dB</item>
-        <item>11.0 dB</item>
-        <item>12.0 dB</item>
-        <item>13.0 dB</item>
-        <item>14.0 dB</item>
-        <item>14.8 dB</item>
-        <item>15.6 dB</item>
-        <item>16.3 dB</item>
-        <item>17.0 dB</item>
+        <item>3.5 เดซิเบล</item>
+        <item>6.0 เดซิเบล</item>
+        <item>8.0 เดซิเบล</item>
+        <item>10.0 เดซิเบล</item>
+        <item>11.0 เดซิเบล</item>
+        <item>12.0 เดซิเบล</item>
+        <item>13.0 เดซิเบล</item>
+        <item>14.0 เดซิเบล</item>
+        <item>14.8 เดซิเบล</item>
+        <item>15.6 เดซิเบล</item>
+        <item>16.3 เดซิเบล</item>
+        <item>17.0 เดซิเบล</item>
     </string-array>
     <string-array name="vclarity_mode">
         <item>ธรรมชาติ</item>
@@ -398,16 +398,16 @@
         <item>XHiFi</item>
     </string-array>
     <string-array name="vclarity_boost">
-        <item>0.0 dB</item>
-        <item>3.5 dB</item>
-        <item>6.0 dB</item>
-        <item>8.0 dB</item>
-        <item>10.0 dB</item>
-        <item>11.0 dB</item>
-        <item>12.0 dB</item>
-        <item>13.0 dB</item>
-        <item>14.0 dB</item>
-        <item>14.8 dB</item>
+        <item>0.0 เดซิเบล</item>
+        <item>3.5 เดซิเบล</item>
+        <item>6.0 เดซิเบล</item>
+        <item>8.0 เดซิเบล</item>
+        <item>10.0 เดซิเบล</item>
+        <item>11.0 เดซิเบล</item>
+        <item>12.0 เดซิเบล</item>
+        <item>13.0 เดซิเบล</item>
+        <item>14.0 เดซิเบล</item>
+        <item>14.8 เดซิเบล</item>
     </string-array>
 
     <string-array name="cure_crossfeed">
@@ -446,28 +446,28 @@
         <item>0.00 : 1.00</item>
     </string-array>
     <string-array name="output_volume">
-        <item>6.0 dB</item>
-        <item>5.6 dB</item>
-        <item>5.1 dB</item>
-        <item>4.6 dB</item>
-        <item>4.1 dB</item>
-        <item>3.5 dB</item>
-        <item>2.9 dB</item>
-        <item>2.3 dB</item>
-        <item>1.6 dB</item>
-        <item>0.8 dB</item>
-        <item>0 dB</item>
-        <item>-1.0 dB</item>
-        <item>-1.9 dB</item>
-        <item>-3.0 dB</item>
-        <item>-4.4 dB</item>
-        <item>-6.0 dB</item>
-        <item>-8.0 dB</item>
-        <item>-10.5 dB</item>
-        <item>-14.0 dB</item>
-        <item>-20.0 dB</item>
-        <item>-26.0 dB</item>
-        <item>-40.0 dB</item>
+        <item>6.0 เดซิเบล</item>
+        <item>5.6 เดซิเบล</item>
+        <item>5.1 เดซิเบล</item>
+        <item>4.6 เดซิเบล</item>
+        <item>4.1 เดซิเบล</item>
+        <item>3.5 เดซิเบล</item>
+        <item>2.9 เดซิเบล</item>
+        <item>2.3 เดซิเบล</item>
+        <item>1.6 เดซิเบล</item>
+        <item>0.8 เดซิเบล</item>
+        <item>0 เดซิเบล</item>
+        <item>-1.0 เดซิเบล</item>
+        <item>-1.9 เดซิเบล</item>
+        <item>-3.0 เดซิเบล</item>
+        <item>-4.4 เดซิเบล</item>
+        <item>-6.0 เดซิเบล</item>
+        <item>-8.0 เดซิเบล</item>
+        <item>-10.5 เดซิเบล</item>
+        <item>-14.0 เดซิเบล</item>
+        <item>-20.0 เดซิเบล</item>
+        <item>-26.0 เดซิเบล</item>
+        <item>-40.0 เดซิเบล</item>
     </string-array>
 
 </resources>
